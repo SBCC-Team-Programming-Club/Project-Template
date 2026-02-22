@@ -26,12 +26,10 @@ List anything needed to run the project (e.g. Node.js, Python, extra libraries, 
 ### Installation
 
 ```bash
-# Clone the repo (replace <your-repo-name> with the actual repository name)
+# Clone the repo
 git clone https://github.com/SBCC-Team-Programming-Club/<your-repo-name>
-
 # Navigate into the project
 cd <your-repo-name>
-
 # Install dependencies (if applicable)
 npm install
 ```

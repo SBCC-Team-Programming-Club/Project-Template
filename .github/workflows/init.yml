@@ -41,7 +41,7 @@ jobs:
           # Replace team member placeholder with display name and username
           sed -i "s/Your Name/$DISPLAY_NAME/" README.md
           sed -i "s/@username/@$CREATOR/" README.md
-          sed -i "s/| Role |/| Owner |/" README.md
+          sed -i "s/| Member Role |/| Project Lead |/" README.md
 
           echo "✅ Initialized README for: $REPO_NAME (creator: $DISPLAY_NAME)"
         env:

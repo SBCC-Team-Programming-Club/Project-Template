@@ -2,6 +2,8 @@
 
 > A short one-line description of what this project does.
 
+![Project Banner](https://placehold.co/600x400?text=Project+Banner)
+
 ## 👥 Team Members
 
 | Name | GitHub | Role |
@@ -28,7 +30,7 @@ git clone https://github.com/SBCC-Team-Programming-Club/<your-repo-name>
 
 
 # Navigate into the project
-cd your-repo-name
+cd <your-repo-name>
 
 # Install dependencies (if applicable)
 ```
